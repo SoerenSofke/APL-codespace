@@ -1,0 +1,15 @@
+{
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "code-runner.executorMapByFileExtension": {
+        ".apl": "docker run -v /workspaces/APL-codespace:/workspaces/APL-codespace --entrypoint dyalogscript dyalog/dyalog"
+    },
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.enableAppInsights": false,
+    "code-runner.ignoreSelection": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.showRunCommandInEditorContextMenu": false,
+    "code-runner.showRunCommandInExplorerContextMenu": false,
+    "code-runner.showExecutionMessage": false
+}
