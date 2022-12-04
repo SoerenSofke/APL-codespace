@@ -7,7 +7,7 @@
     },
     "code-runner.clearPreviousOutput": true,
     "code-runner.enableAppInsights": false,
-    "code-runner.ignoreSelection": true,
+    "code-runner.ignoreSelection": false,
     "code-runner.saveFileBeforeRun": true,
     "code-runner.showRunCommandInEditorContextMenu": false,
     "code-runner.showRunCommandInExplorerContextMenu": false,
