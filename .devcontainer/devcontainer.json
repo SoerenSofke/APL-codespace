@@ -1,5 +1,13 @@
 {
   "image": "dyalog/dyalog:18.2",
   "features": {
-  }
+},
+"customizations": {
+	"vscode": {
+		"extensions": [
+			"formulahendry.code-runner",
+			"OptimaSystems.vscode-apl-language"
+		]
+	}
+}
 }
