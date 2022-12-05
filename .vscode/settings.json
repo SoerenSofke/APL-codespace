@@ -1,4 +1,6 @@
 {
+    "editor.fontSize": 13,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
     "terminal.integrated.enableMultiLinePasteWarning": false,
     "git.confirmSync": false,
     "git.autofetch": true,
@@ -14,8 +16,6 @@
     "code-runner.showExecutionMessage": false,
     "generic-input-methods.input-methods": [
         {
-            "name": "Unicode Math",
-            "commandName": "text.math",
             "languages": [
                 "apl"
             ],
@@ -23,7 +23,9 @@
                 "\\"
             ],
             "dictionary": [
-                "defaults/math.json"
+                { "label": "<- assign", "body": "←", "description": "\tEXAMPLE\nB←A\n\tMEANING\nSets values and shape of B to match A"}
+                { "label": "+ conjugate plus", "body": "+", "description": "Add\n\tA+B\nSum of A and B"}
+                { "label": "⍵", "body": "⍵", "description": "⊪"}
             ]
         }
     ]
