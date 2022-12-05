@@ -23,9 +23,48 @@
                 "\\"
             ],
             "dictionary": [
-                { "label": "<- assign", "body": "←", "description": "\tEXAMPLE\nB←A\n\tMEANING\nSets values and shape of B to match A"}
-                { "label": "+ conjugate plus", "body": "+", "description": "Add\n\tA+B\nSum of A and B"}
-                { "label": "⍵", "body": "⍵", "description": "⊪"}
+                { "label": "←   <-   ASSIGN", "body": "←"},
+                { "label": "+        conjugate   plus", "body": "+"},
+                { "label": "-        negate   minus", "body": "-"},
+                { "label": "×   xx   direction   times", "body": "×"},
+                { "label": "÷   :-   reciprocal   divide", "body": "÷"},
+                { "label": "*        exponent   power", "body": "*"},
+                { "label": "⍟   *O   natural logarithm   logarithm", "body": "⍟"},
+                { "label": "⌹   [-   matrix inverse   matrix divide", "body": "⌹"},
+                { "label": "○   OO   pi times   circular", "body": "○"},
+                { "label": "!        factorial   binomial", "body": "!"},
+                { "label": "?        roll   deal", "body": "?"},
+                { "label": "|        magnitude   residue", "body": "|"},
+                { "label": "⌈   FF   ceiling   maximum", "body": "⌈"},
+                { "label": "⌊   LL   floor   minimum", "body": "⌊"},
+                { "label": "⊥   |_   decode", "body": "⊥"},
+                { "label": "⊤   TT   encode", "body": "⊤"},
+                { "label": "⊣   -|   same   left", "body": "⊣"},
+                { "label": "⊢   |-   same   right", "body": "⊢"},
+                { "label": "=        equal", "body": "="},
+                { "label": "≠   =/     unique mask   not equal", "body": "≠"},
+                { "label": "≤   <=     less than or equal to", "body": "≤"},
+                { "label": "<          less than", "body": "≤"},
+                { "label": ">          greater than", "body": ">"},
+                { "label": "≥   >=     greater than or equal to", "body": "≥"},
+
+                
+                
+
+
+                
+                
+                
+                
+
+                
+
+                
+
+                
+
+
+                { "label": "⍵   ww   RIGHT ARGUMENT   RIGHT OPERAND (⍵⍵)", "body": "⍵"},
             ]
         }
     ]
