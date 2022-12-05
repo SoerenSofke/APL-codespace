@@ -17,7 +17,6 @@
             "name": "Unicode Math",
             "commandName": "text.math",
             "languages": [
-                "markdown",
                 "latex"
             ],
             "triggers": [
