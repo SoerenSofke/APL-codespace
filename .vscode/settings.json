@@ -42,28 +42,12 @@
                 { "label": "⊣   -|   same   left", "body": "⊣"},
                 { "label": "⊢   |-   same   right", "body": "⊢"},
                 { "label": "=        equal", "body": "="},
-                { "label": "≠   =/     unique mask   not equal", "body": "≠"},
-                { "label": "≤   <=     less than or equal to", "body": "≤"},
-                { "label": "<          less than", "body": "≤"},
-                { "label": ">          greater than", "body": ">"},
-                { "label": "≥   >=     greater than or equal to", "body": "≥"},
-
-                
-                
-
-
-                
-                
-                
-                
-
-                
-
-                
-
-                
-
-
+                { "label": "≠   =/   unique mask   not equal", "body": "≠"},
+                { "label": "≤   <=   less than or equal to", "body": "≤"},
+                { "label": "<        less than", "body": "≤"},
+                { "label": ">        greater than", "body": ">"},
+                { "label": "≥   >=   greater than or equal to", "body": "≥"},
+                { "label": "⎕   []   SYSTEM NAME", "body": "⎕"},
                 { "label": "⍵   ww   RIGHT ARGUMENT   RIGHT OPERAND (⍵⍵)", "body": "⍵"},
             ]
         }
