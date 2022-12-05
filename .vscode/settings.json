@@ -11,5 +11,21 @@
     "code-runner.saveFileBeforeRun": true,
     "code-runner.showRunCommandInEditorContextMenu": false,
     "code-runner.showRunCommandInExplorerContextMenu": false,
-    "code-runner.showExecutionMessage": false
+    "code-runner.showExecutionMessage": false,
+    "generic-input-methods.input-methods": [
+        {
+            "name": "Unicode Math",
+            "commandName": "text.math",
+            "languages": [
+                "markdown",
+                "latex"
+            ],
+            "triggers": [
+                "\\"
+            ],
+            "dictionary": [
+                "defaults/math.json"
+            ]
+        }
+    ]
 }

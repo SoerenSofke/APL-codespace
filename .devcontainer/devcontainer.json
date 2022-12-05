@@ -5,7 +5,8 @@
 		"vscode": {
 			"extensions": [
 				"formulahendry.code-runner",
-				"OptimaSystems.vscode-apl-language"
+				"OptimaSystems.vscode-apl-language",
+				"mr-konn.generic-input-method"
 			]
 		}
 	},
