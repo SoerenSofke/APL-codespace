@@ -47,6 +47,9 @@
                 { "label": "<        less than", "body": "≤"},
                 { "label": ">        greater than", "body": ">"},
                 { "label": "≥   >=   greater than or equal to", "body": "≥"},
+                { "label": "≡   ==   depth   match", "body": "≡"},
+                { "label": "≢   Z-   tally   not match", "body": "≢"},
+                
                 { "label": "⎕   []   SYSTEM NAME", "body": "⎕"},
                 { "label": "⍵   ww   RIGHT ARGUMENT   RIGHT OPERAND (⍵⍵)", "body": "⍵"},
             ]
