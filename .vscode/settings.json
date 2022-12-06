@@ -105,13 +105,13 @@
                 { "label": "⍕   oT   format", "body": "⍕"},
 
                 { "label": "⋄   <>   STATEMENT SEPARATOR", "body": "⋄"},
-                { "label": "⍝   on   COMMENT", "body": "⋄"},
+                { "label": "⍝   on   COMMENT", "body": "⍝"},
                 { "label": "⍵   ww   RIGHT ARGUMENT   RIGHT OPERAND (⍵⍵)", "body": "⍵"},
                 { "label": "⍺   aa   LEFT ARGUMENT   LEFT OPERAND (⍺⍺)", "body": "⍺"},
                 { "label": "∇   VV   recursion   Recursion (∇∇)", "body": "∇"},
                 
                 { "label": "¯   --   NEGATE", "body": "¯"},
-                { "label": "⍬   O~   EMPTY NUMERIC VECTOR", "body": "⍬"},⌈                
+                { "label": "⍬   O~   EMPTY NUMERIC VECTOR", "body": "⍬"},
             ]
         }
     ]
